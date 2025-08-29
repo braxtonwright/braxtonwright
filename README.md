@@ -1,6 +1,6 @@
 # Hi, I'm Braxton Wright | Senior Product Manager and Product Strategist (SaaS & PropTech/FinTech)
 
-I turn ambiguous, operational problems into shipped products that move KPIs. Background in real estate development product consulting, internal/external software builds, and product strategy; Bachelor's degree in Computer Science; fluent in PRD, JTBD, SQL, roadmapping, concept development, team leadership (both with authority and without), experimentation, and analytics (Amplitude/Mixpanel, GA4, Tableau). Building value-validation projects you can read end-to-end.
+I turn ambiguous, operational problems into shipped products that move KPIs. Background in real estate development product consulting, internal & customer-facing software builds, and product strategy; Bachelor's degree in Computer Science; fluent in PRD, JTBD, SQL, roadmapping, concept development, team leadership (both with authority and without), experimentation, and analytics (Amplitude/Mixpanel, GA4, Tableau). Building value-validation projects you can read end-to-end.
 
 **Portfolio lives here → https://github.com/tpop-io**  
 (Artifacts are sanitized; demo code is greenfield.)
